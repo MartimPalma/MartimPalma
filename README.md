@@ -8,9 +8,6 @@
 💡 If you share the same passion for technology as I do, let's connect! Feel free to explore my socials below, and don't hesitate to reach out with any questions or opportunities. I'm enthusiastic about collaborating and contributing to exciting projects.
 <br />
 
-# 🌐 Socials:
-
-<br />
 
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
