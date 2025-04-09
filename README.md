@@ -1,5 +1,5 @@
 # Hi there!! 
-👋 Hello, I'm Martim, a student at the University of Aveiro, pursuing a degree in Multimedia and Communications Technologies, where I am immersed in both backend and frontend development.<be>
+👋 Hello, I'm Martim, a student at the University of Aveiro, pursuing a degree, where I am immersed in both backend and frontend development.<be>
 
 🔍 Currently, I am actively exploring and learning to expand my skill set, delving into new possibilities in software development.
 
