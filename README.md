@@ -3,7 +3,7 @@
 
 🔍 Currently, I am actively exploring and learning to expand my skill set, delving into new possibilities in software development.
 
-🌟 My goal is to continually evolve as a Front-End Developer, staying abreast of the latest technologies and design trends, and consistently delivering innovative and user-centric solutions that enhance the overall user experience. 
+🌟 My goal is to continually evolve as a Developer, staying abreast of the latest technologies and design trends, and consistently delivering innovative and user-centric solutions that enhance the overall user experience. 
 
 💡 If your passion for technology aligns with mine, let's connect! Explore my socials below, and feel free to reach out for any questions or potential collaborations. I'm excited about contributing to innovative projects and fostering meaningful connections.
 <br />
